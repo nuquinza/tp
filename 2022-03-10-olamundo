@@ -3,6 +3,6 @@ programa
 	
 	funcao inicio()
 	{
-		escreva("entendi tudo")
+		escreva("entendi")
 	}
 }
